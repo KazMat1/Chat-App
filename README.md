@@ -61,7 +61,7 @@ git push origin {branch_name}
 git push origin main or git push origin master
 ```
 
-*他人の変更をダウンロードするときに使う*
+*他人の変更をダウンロードくるときに使う*
 - pull
 - merge
 ## 時々使う
